@@ -2,12 +2,12 @@
 [![](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org/)
 
 
-# PDF Helper
+# Salva PDF 
 
 Projeto de chatbot criado durante a imersão da [Alura](https://www.alura.com.br/) com o [Google](https://ai.google/) com o objetivo de ajudar a extrair informações de forma prática de arquivos .PDF utilizando o Gemini a AI do Google. 
 
 
-## Step by Step 
+## Passo a Passo
 
 - Tenha uma conta google.
 - Crie uma [API KEY](https://aistudio.google.com/app/apikey)
