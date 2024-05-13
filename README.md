@@ -17,8 +17,7 @@ Projeto de chatbot criado durante a imersão da [Alura](https://www.alura.com.br
     - 'Insira apenas o caminho do arquivo': caminho do arquivo sem a extensão.
     - 'Realize as perguntas sobre o arquivo': prompt de comando para AI. Para finalizar digite 'fim'.  
 
-## Resultado(Exemplo)
-
+## Input
 
 Após inserir o caminho do arquivo o modelo ja realizou a leitura e o guardou em uma variavel que será inserida como 'contexto' dentro do chatbot. 
 
@@ -30,7 +29,8 @@ Após iremos solicitar o modelo de forma simples e abrangente para realmente val
 
 - Prompt: Crie um fichamento técnico.
 
-Resultado: 
+## Resultado: 
+
 model: Fichamento Técnico
 
 Título: Ciência de Dados e Big Data: O que isso significa para estudos populacionais e da saúde?
@@ -39,38 +39,38 @@ Autores: Raphael de Freitas Saldanha, Christovam Barcellos, Marcel de Moraes Ped
 
 Publicação: Cadernos de Saúde Coletiva, 2021;29(esp.): 51-58
 
-Resumo:
+**Resumo:**
 
 O artigo discute as implicações da ciência de dados e big data para estudos populacionais e de saúde. Argumenta-se que o volume de dados não é a característica mais promissora do big data, mas sim a complexidade e a possibilidade de integração com estudos convencionais por meio de equipes interdisciplinares.
 
-Introdução:
+**Introdução:**
 
 - O termo "big data" está se tornando mais comum em publicações científicas e editais de pesquisa.
 - A ciência de dados é um campo interdisciplinar que combina ciência da computação, matemática, estatística e conhecimento substantivo do problema em análise.
 - 
-Big Data e Estudos Populacionais e de Saúde:
+**Big Data e Estudos Populacionais e de Saúde:**
 
 - O volume de dados em estudos populacionais e de saúde é menor do que em outras áreas científicas.
 - A complexidade dos dados e a possibilidade de integração com outras fontes são mais importantes do que o volume.
 - Técnicas de data mining permitem detectar padrões e divergências que não são identificados por abordagens tradicionais.
 
 
-A Busca de Padrões e Divergências:
+**A Busca de Padrões e Divergências:**
 
 - A ciência de dados permite uma abordagem "data-driven" em vez de "hypothesis-driven".
 - Isso permite identificar perfis de risco específicos e contextos particulares de risco.
 - A análise de dados georreferenciados permite contextualizar eventos de saúde-doença com o território.
   
-Big Data em Saúde, Acesso a Dados e Direito ao Sigilo:
+**Big Data em Saúde, Acesso a Dados e Direito ao Sigilo:**
 
 - A integração de dados de diferentes sistemas de informação pode fornecer uma visão mais abrangente da saúde da - população.
 - No entanto, é necessário abordar preocupações com o uso indevido de dados individuais.
   
-Desafios e Perspectivas Futuras:
+**Desafios e Perspectivas Futuras:**
 
 - O uso de técnicas de big data pode superar modelos simplistas de classificação de riscos e identificação de desigualdades.
 - É necessário preservar a autonomia e a capacidade de inovação da ciência em meio a ataques a pesquisas e tentativas de retrocesso na divulgação de dados.
 - 
-Conclusão:
+**Conclusão:**
 
 - No âmbito da saúde e dos estudos populacionais, a ciência de dados e o big data oferecem novas ferramentas para análise, monitoramento, predição e estudo dos determinantes socioambientais e demográficos da saúde.
