@@ -4,7 +4,7 @@
 
 # PDF Helper
 
-Projeto de chatbot criado durante a imersão da [Alura](https://www.alura.com.br/) com a [Google](https://ai.google/) com o objetivo de ajudar a extrair informações de forma prática de arquivos .PDF utilizando o Gemini a AI da Google. 
+Projeto de chatbot criado durante a imersão da [Alura](https://www.alura.com.br/) com o [Google](https://ai.google/) com o objetivo de ajudar a extrair informações de forma prática de arquivos .PDF utilizando o Gemini a AI do Google. 
 
 
 ## Step by Step 
