@@ -47,7 +47,7 @@ O artigo discute as implicações da ciência de dados e big data para estudos p
 
 - O termo "big data" está se tornando mais comum em publicações científicas e editais de pesquisa.
 - A ciência de dados é um campo interdisciplinar que combina ciência da computação, matemática, estatística e conhecimento substantivo do problema em análise.
-- 
+
 **Big Data e Estudos Populacionais e de Saúde:**
 
 - O volume de dados em estudos populacionais e de saúde é menor do que em outras áreas científicas.
